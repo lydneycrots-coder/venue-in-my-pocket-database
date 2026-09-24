@@ -284,4 +284,19 @@
     "contactType": "Music Venue - Contact To Verify",
     "verified": "2026-09"
   }
+  {
+  "id": "github-test-venue",
+  "name": "GitHub Test Venue",
+  "town": "Cape Town",
+  "area": "Cape Town",
+  "province": "Western Cape",
+  "phone": "",
+  "whatsapp": "",
+  "email": "",
+  "website": "",
+  "maps": "Cape Town",
+  "type": "Test Venue",
+  "contactType": "Test",
+  "verified": "2026-09"
+}
 ]
